@@ -4,6 +4,10 @@ A Unity 6 system that lets players sculpt, paint and plant terrain while the gam
 or a whole grid of terrain tiles, with undo/redo, save files and tiles that can be added while you play. Drop one
 prefab into a scene and press Play.
 
+**[Play the demo in your browser](https://dannytran-dev.github.io/UnityRuntimeTerrainEditor/)** (desktop browser
+with WebGL 2).
+
+[![Play the web demo](https://img.shields.io/badge/Demo-Play%20in%20browser-orange)](https://dannytran-dev.github.io/UnityRuntimeTerrainEditor/)
 ![Unity 6000.3](https://img.shields.io/badge/Unity-6000.3-black?logo=unity)
 ![URP](https://img.shields.io/badge/Render%20Pipeline-URP-blue)
 ![Input System](https://img.shields.io/badge/Input-Input%20System-blue)
@@ -31,6 +35,11 @@ prefab into a scene and press Play.
   `TerrainChanged` event (for example to rebuild a NavMesh).
 
 ## Try it
+
+The quickest way is the [web demo](https://dannytran-dev.github.io/UnityRuntimeTerrainEditor/). In the browser, use the
+Save and Load buttons in the panel, since F5 reloads the page.
+
+To open it in Unity:
 
 1. Clone the repository and open the folder with **Unity 6000.3** (made with 6000.3.22f1) from Unity Hub.
 2. Open `Assets/RuntimeTerrainEditor/Demo/Scenes/RuntimeTerrainEditorDemo.unity` and press Play.
