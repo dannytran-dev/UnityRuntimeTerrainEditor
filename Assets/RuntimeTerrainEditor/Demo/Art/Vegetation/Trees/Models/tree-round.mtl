@@ -1,0 +1,6 @@
+# Materials of tree-round.obj (the demo remaps them to URP materials in the model's import settings)
+newmtl tree_green
+Kd 0.33 0.58 0.25
+
+newmtl tree_bark_light
+Kd 0.52 0.40 0.28

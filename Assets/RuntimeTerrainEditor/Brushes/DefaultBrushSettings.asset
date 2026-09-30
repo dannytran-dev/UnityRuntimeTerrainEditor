@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d159cd1e4eb46489dad9dfd28e09d5b, type: 3}
+  m_Name: DefaultBrushSettings
+  m_EditorClassIdentifier: 
+  brushTextures:
+  - {fileID: 2800000, guid: 1be0835d5647c98459f1217160b520a5, type: 3}
+  - {fileID: 2800000, guid: 60c90a7e4ccd82f4796633fbb10ae49d, type: 3}
+  - {fileID: 2800000, guid: e21cb1270361df340a7e3aafe1669ad2, type: 3}
+  - {fileID: 2800000, guid: 789a78dc92bf69e49b38734df8f24f0d, type: 3}
+  - {fileID: 2800000, guid: b279e58ee96be75439af6246e1950213, type: 3}
+  - {fileID: 2800000, guid: cc772cbf7fdef324e9dde5f47e826c8f, type: 3}
+  - {fileID: 2800000, guid: 1bc34e489d26ad343b2325250fa4d09e, type: 3}
+  - {fileID: 2800000, guid: 0b0a24d055398ce40b8dd9aef883e3ee, type: 3}
+  - {fileID: 2800000, guid: 543da795dd5d07047b01f2d63dd7a300, type: 3}
+  - {fileID: 2800000, guid: c268a47c7d701b24fae6a6bbe3e78c48, type: 3}
+  - {fileID: 2800000, guid: 85ec32977cef6164bb467883275fa6f7, type: 3}
+  - {fileID: 2800000, guid: 424c40a3328e4d04390b31c534f46f3b, type: 3}
