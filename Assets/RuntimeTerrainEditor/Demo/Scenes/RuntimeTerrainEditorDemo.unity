@@ -1254,6 +1254,10 @@ PrefabInstance:
       propertyPath: editorEnabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3324244570390351357, guid: 2d5e1cf4b83d8664fa3893f7b7f9b24d, type: 3}
+      propertyPath: maxUndoMemoryMB
+      value: 128
+      objectReference: {fileID: 0}
     - target: {fileID: 3346403363948395013, guid: 2d5e1cf4b83d8664fa3893f7b7f9b24d, type: 3}
       propertyPath: m_Name
       value: TerrainEditor
